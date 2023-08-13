@@ -14,7 +14,8 @@ Group Number:
 6
 
 Group Members:
-12345678 Name A
-23456789 Name B
-34567890 Name C
-45678901 Name D
+22241148 Safwan Shaheer
+20101491 Mohammad Rafid Hamid
+20101482 G. M. Refatul Islam
+19301106 Md. Abrar Faiaz Khan 
+23341082 Md. Omar Faruk
