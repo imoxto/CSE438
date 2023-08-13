@@ -8,7 +8,7 @@ Paper title:
 Detecting and Mitigating Prompt Injection Attacks using quality dataset
 
 Paper presentation (anyone can view without login):
-http://slides.google.com/
+none
 
 Group Number:
 6
